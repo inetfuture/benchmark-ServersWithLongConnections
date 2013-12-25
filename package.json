@@ -1,0 +1,17 @@
+{
+  "name": "benchmark-ServersWithLongConnections",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inetfuture/benchmark-ServersWithLongConnections.git"
+  },
+  "author": "inetfuture (Aaron Wang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inetfuture/benchmark-ServersWithLongConnections/issues"
+  },
+  "homepage": "https://github.com/inetfuture/benchmark-ServersWithLongConnections",
+  "dependencies": {
+    "async": "~0.2.9"
+  }
+}

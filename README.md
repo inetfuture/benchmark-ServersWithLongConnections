@@ -1,1 +1,1 @@
-# Benchmark long connections performance of servers writen by node.js, go, erlang, tornado etc.
+# Benchmark long connection performance of servers written by node.js, go, erlang, tornado etc.
